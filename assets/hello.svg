@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240" role="img" aria-labelledby="title desc">
+  <title id="title">Hey, I'm Juan</title>
+  <desc id="desc">A warm peach and lavender banner with playful orange, blue, and green shapes. Buenos Aires, Argentina.</desc>
+  <defs>
+    <linearGradient id="paper" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fff2e8"/>
+      <stop offset="0.55" stop-color="#f8edf5"/>
+      <stop offset="1" stop-color="#eaf0ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="240" rx="24" fill="url(#paper)"/>
+  <circle cx="1110" cy="28" r="95" fill="#e3ddfb"/>
+  <circle cx="1088" cy="217" r="69" fill="#dceee5"/>
+  <circle cx="963" cy="127" r="38" fill="#ffb693"/>
+  <circle cx="963" cy="127" r="20" fill="#fff2e8"/>
+  <path d="M1034 112 C1054 74 1075 145 1095 107 S1135 145 1155 107" fill="none" stroke="#829ec9" stroke-width="8" stroke-linecap="round"/>
+  <path d="M885 185 L899 171 L913 185 L899 199 Z" fill="#dc8b9b"/>
+  <text x="58" y="115" fill="#3e3546" font-family="Verdana,Arial,sans-serif" font-size="54" font-weight="700">hey, i'm juan.</text>
+  <text x="61" y="161" fill="#756977" font-family="Verdana,Arial,sans-serif" font-size="18" letter-spacing="1">BUENOS AIRES, ARGENTINA</text>
+  <circle cx="63" cy="200" r="5" fill="#e9a080"/>
+  <circle cx="83" cy="200" r="5" fill="#b6a4d9"/>
+  <circle cx="103" cy="200" r="5" fill="#8cb6a0"/>
+  <circle cx="123" cy="200" r="5" fill="#92acd0"/>
+</svg>

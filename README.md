@@ -1,21 +1,16 @@
-# Juan C. Videla
+<p>
+  <img src="./assets/hello.svg" alt="Hey, I'm Juan. Buenos Aires, Argentina." width="100%" />
+</p>
 
-**Product Engineer · Buenos Aires, Argentina**
+I like making things for screens. Sometimes an app, sometimes a small experiment.
 
-I build web and mobile products, working across UI, backend, and AI. I like
-turning an idea into something people can use, with a clear interface and
-reliable behavior behind it.
+🍊 These days, mostly [Buenard](https://buenard.app) — workouts, food, habits,
+and a little help from an AI coach.
 
-I'm building [Buenard](https://buenard.app), a fitness app that brings together
-training, nutrition, daily habits, and an AI coach.
+🧪 Around here you'll also find some experiments with
+[AI agents](https://github.com/jvidelac1/clase-7-agentes-por-industria) and
+[ways to evaluate them](https://github.com/jvidelac1/clase-8-evaluacion-agentes).
 
-### What I work with
+Usually some React, TypeScript, Flutter, or Supabase. Depends on the idea.
 
-React · TypeScript · Node.js · Flutter · Supabase · AI agents · n8n
-
-### A few things I've shared
-
-- [AI agents by industry](https://github.com/jvidelac1/clase-7-agentes-por-industria): practical workflows for different business contexts.
-- [Evaluating AI agents](https://github.com/jvidelac1/clase-8-evaluacion-agentes): AI-as-a-Judge, thresholds, and human review.
-
-[Portfolio](https://jcvidela.com) · [LinkedIn](https://www.linkedin.com/in/jcvidela/) · [Buenard](https://buenard.app)
+[My corner of the internet](https://jcvidela.com) · [Say hi](https://www.linkedin.com/in/jcvidela/)
