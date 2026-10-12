@@ -15,7 +15,7 @@ React · TypeScript · Node.js · Flutter · Supabase · AI agents · n8n
 
 ### A few things I've shared
 
-- [AI agents by industry](https://github.com/jeyzee23/clase-7-agentes-por-industria): practical workflows for different business contexts.
-- [Evaluating AI agents](https://github.com/jeyzee23/clase-8-evaluacion-agentes): AI-as-a-Judge, thresholds, and human review.
+- [AI agents by industry](https://github.com/jvidelac1/clase-7-agentes-por-industria): practical workflows for different business contexts.
+- [Evaluating AI agents](https://github.com/jvidelac1/clase-8-evaluacion-agentes): AI-as-a-Judge, thresholds, and human review.
 
 [Portfolio](https://jcvidela.com) · [LinkedIn](https://www.linkedin.com/in/jcvidela/) · [Buenard](https://buenard.app)
